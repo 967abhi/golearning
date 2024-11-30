@@ -6,11 +6,26 @@ import (
 )
 
 func main() {
-	fmt.Print("Hello world from the abhishek aur beta ")
+	// var name string = "Prince "
+	// var age int = 15
+	// var version = "version latest"
+	// var money int = 67000
+	// var dimension float64 = 87.12
+	// fmt.Println(money)
 
-	// fmt.Println("Learn my hello world ")
-	myutil.PrintMessage("Hello from the util")
-	fmt.Print("hi after the learning ")
-	// myabhishek.Mrintaessage("Hello")
-	// myabhishek.Mrintaessage("Hello fomr the abhishek")
+	// fmt.Println(name)
+	// fmt.Println(age)
+	// fmt.Println(version)
+	// fmt.Println(dimension)
+	person := 123
+	name := "abhishek kumar singh "
+	Public := "Data is important"
+	Private := "Data is private"
+
+	fmt.Println(name)
+	fmt.Println(person)
+	myutil.PrintMessage("hello")
+	fmt.Println(Public)
+	fmt.Println(Private)
+
 }
