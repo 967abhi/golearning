@@ -1,10 +1,5 @@
 package main
 
-import (
-	"fmt"
-	"mylearning/myutil"
-)
-
 func main() {
 	// var name string = "Prince "
 	// var age int = 15
@@ -17,15 +12,15 @@ func main() {
 	// fmt.Println(age)
 	// fmt.Println(version)
 	// fmt.Println(dimension)
-	person := 123
-	name := "abhishek kumar singh "
-	Public := "Data is important"
-	Private := "Data is private"
+	// person := 123
+	// name := "abhishek kumar singh "
+	// Public := "Data is important"
+	// Private := "Data is private"
 
-	fmt.Println(name)
-	fmt.Println(person)
-	myutil.PrintMessage("hello")
-	fmt.Println(Public)
-	fmt.Println(Private)
+	// fmt.Println(name)
+	// fmt.Println(person)
+	// myutil.PrintMessage("hello")
+	// fmt.Println(Public)
+	// fmt.Println(Private)
 
 }
